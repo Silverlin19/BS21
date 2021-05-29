@@ -1,4 +1,4 @@
-# Foobar
+# Book Search App
 
 A book search app
 
