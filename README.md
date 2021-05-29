@@ -16,4 +16,6 @@ npm start
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Live Link
