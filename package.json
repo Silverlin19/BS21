@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
-  "homepage": "https://Silverlin19.github.io/BS21",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
     "start:prod": "cd server && npm start",
