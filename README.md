@@ -2,7 +2,7 @@
 
 A book search app
 
-## Installation if downloaded
+## Installation when downloaded
 
 ```bash
 npm 1
